@@ -2271,3 +2271,13 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+#login {
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+  #login > fl {
+    display: flex;
+    justify-content: center;
+  }
+}
